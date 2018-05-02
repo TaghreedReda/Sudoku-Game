@@ -1,0 +1,4 @@
+﻿  Assembling main.asm...
+main.obj : error LNK2019: unresolved external symbol _RandomRange@0 referenced in function _main@0
+main.obj : error LNK2019: unresolved external symbol _WriteDec@0 referenced in function _main@0
+C:\Users\esraa\Desktop\Test\Project_Template\Release\Project.exe : fatal error LNK1120: 2 unresolved externals
